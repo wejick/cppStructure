@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+# Files from codeblock structure
+obj/
+bin/
+*.cbp
+*.layout
+*.depend
